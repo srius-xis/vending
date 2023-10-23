@@ -1,0 +1,244 @@
+{
+    "product": [
+        {
+            "name": "鹌鹑蛋",
+            "path": "./img/acd.bmp",
+            "price": "3.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "冰红茶",
+            "path": "./img/bhc.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "百事可乐",
+            "path": "./img/bskl.bmp",
+            "price": "4.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "白象",
+            "path": "./img/bx.bmp",
+            "price": "3.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "橙汁",
+            "path": "./img/cz.bmp",
+            "price": "5.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "大面筋",
+            "path": "./img/dmj.bmp",
+            "price": "3.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "大食代",
+            "path": "./img/dsd.bmp",
+            "price": "4.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "芬达",
+            "path": "./img/fd.bmp",
+            "price": "2.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "干脆面",
+            "path": "./img/gcm.bmp",
+            "price": "1.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "荷兰豆",
+            "path": "./img/hld.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "好味道",
+            "path": "./img/hwd.bmp",
+            "price": "8.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "鸡腿",
+            "path": "./img/jt.bmp",
+            "price": "2.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "可口可乐",
+            "path": "./img/kkkl.bmp",
+            "price": "7.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "康师傅",
+            "path": "./img/ksf.bmp",
+            "price": "5.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "妙脆角",
+            "path": "./img/mcj.bmp",
+            "price": "1.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "农夫山泉",
+            "path": "./img/nfsq.bmp",
+            "price": "1.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "泡椒鸡爪",
+            "path": "./img/pjjz.bmp",
+            "price": "3.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "荞麦面",
+            "path": "./img/pmm.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "盼盼面包",
+            "path": "./img/ppmb.bmp",
+            "price": "10",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "软豆皮",
+            "path": "./img/rdp.bmp",
+            "price": "3.0",
+            "stock": "20",
+            "sales": "12",
+            "status": "false"
+        },
+        {
+            "name": "统一",
+            "path": "./img/ty.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "哇哈哈",
+            "path": "./img/whh.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "卫龙",
+            "path": "./img/wl.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "外星人饮料",
+            "path": "./img/wxr.bmp",
+            "price": "6.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "雪碧",
+            "path": "./img/xb.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "鸭翅",
+            "path": "./img/yc.bmp",
+            "price": "2.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "压缩饼干",
+            "path": "./img/ysbg.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "压缩面包",
+            "path": "./img/ysmb.bmp",
+            "price": "12",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "椰汁",
+            "path": "./img/yz.bmp",
+            "price": "3.5",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        },
+        {
+            "name": "自热火锅",
+            "path": "./img/zrhg.bmp",
+            "price": "19",
+            "stock": "20",
+            "sales": "12",
+            "status": "true"
+        }
+    ]
+}
